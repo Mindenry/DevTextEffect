@@ -1,11 +1,8 @@
 # Ultimate Developer Text Effect 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Mindenry/Ultimate-Developer-Text-Effect?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Mindenry/Ultimate-Developer-Text-Effect?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Mindenry/Ultimate-Developer-Text-Effect)
-![GitHub license](https://img.shields.io/github/license/Mindenry/Ultimate-Developer-Text-Effect)
-
 **Ultimate Developer Text Effect** เป็นโปรเจคที่สร้างเอฟเฟกต์ข้อความสำหรับนักพัฒนาโดยเฉพาะ! ด้วยเอฟเฟกต์ที่หลากหลาย เช่น Typewriter, Fade, Scramble, Slide, Glitch, และอื่นๆ พร้อมการปรับแต่งสี ความเร็ว และความเข้มของเอฟเฟกต์ได้อย่างอิสระ 🎨
+
+[Visit the Website](https://mindenry.github.io/DevTextEffect/)
 
 ---
 
